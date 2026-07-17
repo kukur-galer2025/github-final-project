@@ -1,3 +1,3 @@
 # Contributing
 
-We welcome contributions! Please fork the repository and submit a pull request with your changes.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
